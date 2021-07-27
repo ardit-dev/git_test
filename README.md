@@ -1,1 +1,0 @@
-This is Arditi's first Git Project!
